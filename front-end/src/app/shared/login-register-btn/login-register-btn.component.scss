@@ -1,0 +1,15 @@
+.btn{
+  margin: 10px;
+  width: 454px;
+  height: 83px;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  background-color: #F44A4A;
+  border: none;
+  border-radius: 9px;
+  &:hover{
+    background-color: #f12929;
+    cursor: pointer;
+  }
+}
